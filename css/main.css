@@ -444,7 +444,7 @@ body {
   cursor: pointer;
 }
 .modal-form-checkbox:checked + .modal-form-checkbox-label::before {
-  background-image: url(../images/icons/icon-check.svg);
+  background-image: url(../images/icon.svg);
   background-color: var(--accent-color);
   background-size: contain;
   background-position: center;
